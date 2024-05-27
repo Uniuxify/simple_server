@@ -33,6 +33,5 @@ def main():
             your_client.send_message(bytes(input('Введите сообщение для сервера: '), 'utf-8'))
 
 
-
 if __name__ == '__main__':
     main()
